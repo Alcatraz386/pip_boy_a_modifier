@@ -3,8 +3,7 @@
 
 [![GNU GPL v3.0](https://img.shields.io/badge/licence-GNU%20GPL%20v3.0-blue)](https://github.com/Alcatraz386/phoenix_down_script/blob/master/LICENSE)
 
-Pip-Boy OK-200 is a personal project aiming at reproducing the Pip-Boy from the video game Fallout 4 in a web browser,
-while making it the support of my curriculum vitae.
+Pip-Boy OK-200 is a project aiming at reproducing the Pip-Boy from the video game Fallout 4 in a web browser.
 
 The project is hosted here : 
 
